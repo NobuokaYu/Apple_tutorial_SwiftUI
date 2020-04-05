@@ -1,0 +1,35 @@
+[
+    {
+        "id": "001",
+        "name": "Bubble Tea Shop",
+        "phoneNumber": "87-4229-996-697",
+        "address":"Sad Rice Field Legislative Circles Town, Heavenly King Temple Area, Great Osaka-Kobe City, Big Slope, 543-0055, Sunrise",
+        "imageName": "shop1",
+        "coordinates": {
+            "latitude": 34.646849,
+            "longitude": 135.514831,
+        },
+    },
+    {
+        "id": "002",
+        "name": "Boba Boba",
+        "phoneNumber": "2944-8969-6427",
+        "address":"Chief Dwelling Town, Gifu City, Crossroads Hill, 500-8175, Sunrise",
+        "imageName": "shop2",
+        "coordinates": {
+            "latitude": 35.450116,
+            "longitude": 136.744682,
+        },
+    },
+    {
+        "id": "003",
+        "name": "TOKYO PEARL MILK",
+        "phoneNumber": "5637-3325-2437",
+        "address":"New Inn, New Inn Area, East Metropolis, 160-0022, Sunrise",
+        "imageName": "shop3",
+        "coordinates": {
+            "latitude": 35.690918,
+            "longitude": 139.706471,
+        },
+    },
+]

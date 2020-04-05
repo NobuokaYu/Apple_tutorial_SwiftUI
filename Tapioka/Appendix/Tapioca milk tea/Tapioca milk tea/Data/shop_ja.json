@@ -1,0 +1,35 @@
+[
+    {
+        "id": "001",
+        "name": "バブルティーショップ",
+        "phoneNumber": "87-4229-996-697",
+        "address":"大阪神戸市天王寺悲田立地中央街",
+        "imageName": "shop1",
+        "coordinates": {
+            "latitude": 34.646849,
+            "longitude": 135.514831,
+        },
+    },
+    {
+        "id": "002",
+        "name": "ボバ・ボバ",
+        "phoneNumber": "2944-8969-6427",
+        "address":"岐阜市長住街十字街丘",
+        "imageName": "shop2",
+        "coordinates": {
+            "latitude": 35.450116,
+            "longitude": 136.744682,
+        },
+    },
+    {
+        "id": "003",
+        "name": "東京パールミルク",
+        "phoneNumber": "5637-3325-2437",
+        "address":"東京都新宿区新宿",
+        "imageName": "shop3",
+        "coordinates": {
+            "latitude": 35.690918,
+            "longitude": 139.706471,
+        },
+    },
+]
